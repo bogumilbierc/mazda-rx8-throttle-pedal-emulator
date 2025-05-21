@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+.DS_STORE
+.idea/
+*.FCBak
+
