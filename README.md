@@ -54,6 +54,17 @@ Circuit was drawn using https://www.circuit-diagram.org/.
 
 Source code for the diagram is located in [circuit cddx file](./docs/circuit.cddx)
 
+## Assembly
+
+I found it easiest to simply put resistors and output wire parallel to each other, then (after soldering it) put
+everything inside a heat shrink.
+
+Crimping connectors are added to ends to the wires to marry it to vehicle wiring harness.
+
+![step 1](./docs/assembly/step-1.jpeg)<br>
+![step 2](./docs/assembly/step-2.jpeg)<br>
+![step 3](./docs/assembly/step-3.jpeg)<br>
+
 ## Useful links
 
 - [Voltage Divider Calculator](https://www.ti.com/download/kbase/volt/volt_div3.htm) - it takes input and output voltage
